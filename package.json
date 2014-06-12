@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/suisho/simproxy",
   "dependencies": {
+    "commander": "^2.2.0",
     "connect": "^2.19.6",
     "request": "^2.36.0"
   },
