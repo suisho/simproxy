@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/suisho/simproxy",
   "dependencies": {
+    "connect": "^2.19.6",
     "request": "^2.36.0"
+  },
+  "bin": {
+    "simproxy": "./index.js"
   }
 }

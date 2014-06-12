@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+console.log(process.argv)
 var connect = require("connect")
 var http = require('http');
 var request = require("request")
